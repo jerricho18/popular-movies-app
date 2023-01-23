@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Popular Movies Clone</string>
+    <string name="popular_menu">Popular</string>
+    <string name="top_rated_menu">Top Rated</string>
+    <string name="favorite_menu">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
